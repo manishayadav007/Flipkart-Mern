@@ -1,4 +1,6 @@
 # Flipkart - MERN
+
+DEVELOPED BY :- MANISHA & SHREYA
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 [Visit Now](https://flipkartweb-mern.vercel.app) 🚀
